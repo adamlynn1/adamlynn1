@@ -26,7 +26,7 @@ Feel free to explore these projects and contribute by submitting issues or pull 
 - 
 ## Connect with Me
 
-- LinkedIn: [linkedin.com/in/adam-lynn-13b38914b/]
+- LinkedIn: (linkedin.com/in/adam-lynn-13b38914b/)
 - Website/Blog: []
 - Email: [lynnadam7@gmail.com]
 
