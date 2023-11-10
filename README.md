@@ -6,19 +6,17 @@ Hey there! I'm Adam
 ### Project 1: Linux Nginx Webhosting Platform
 - Description: [Setting up a Wordpess hosting platform]
 - Technologies: [Linux Ubuntu, BASH, Wordpress, MySQL, DNS, Nginx, SSH, Tmux, vim, i3]
-- GitHub Repository: []
+- GitHub Repository: 
 - Website: fibonacciseq.co.uk
 - Issue (10/11/23): Currently encountering DNS issues that may require allowing DNS propagation across the web for a day or two.
 
 ### Project 2: Implementing a SOC and Honeynet in Microsoft Azure
-- Description: [^]
+- Description: ^
 - Technologies: [KQL, Azure, ACL, Active Directory, Windows 10, SIEM]
-- GitHub Repository: []
-- Compliance??
+- GitHub Repository: 
+
+Project 2.2: Implement additional measures to ensure the Azure SOC infrastructure complies with ISO-27001, OWASP, and NIST standards.
   
-
-### Project 3: Active Directory Home Lab
-
 
 
 
