@@ -18,14 +18,13 @@ Hey there! I'm Adam
 Project 2.2: Implement additional measures to ensure the Azure SOC infrastructure complies with ISO-27001, OWASP, and NIST standards.
   
 
-
-
 Feel free to explore these projects and contribute by submitting issues or pull requests. Your feedback and suggestions are always welcome!
 
 ## Certifications
 
 - Comptia Security +
 - Google Cybersecurity Professional
+  
 ## Connect with Me
 
 - LinkedIn: (linkedin.com/in/adam-lynn-13b38914b/)
