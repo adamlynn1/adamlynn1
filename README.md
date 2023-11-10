@@ -24,12 +24,12 @@ Feel free to explore these projects and contribute by submitting issues or pull 
 
 ## Certifications
 
-- [Comptia Security +](Link to certification)
-- 
+- Comptia Security +
+- Google Cybersecurity Professional
 ## Connect with Me
 
 - LinkedIn: (linkedin.com/in/adam-lynn-13b38914b/)
-- Website/Blog: []
+- Website/Blog: 
 - Email: [lynnadam7@gmail.com]
 
 If you have any questions, collaboration opportunities, or just want to say hi, feel free to reach out to me through any of the above channels.
